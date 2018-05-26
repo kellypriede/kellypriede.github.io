@@ -85,9 +85,11 @@ section img{
 
 #experience #bio p{
   text-align: justify;
-  width: 500px;
+  align:center;
+  width: 50%;
   font-size: 16px;
 }
+
 
 #experience h2{
   margin-top:100px;
@@ -98,6 +100,15 @@ section img{
   text-align: center; 
 }
 
+
+@media(max-width: 650px){
+  #experience #bio p{
+  text-align: justify;
+  align:center;
+  width: 100%;
+  font-size: 16px;
+}
+}
 
 .mb-0{
   margin-top: 100px;
