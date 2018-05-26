@@ -12,7 +12,7 @@
   width: 100%;
   height: 900px;
   background-color: #010019;
-  opacity: .7;
+  opacity: .6;
 }
 
 section#about{
@@ -20,7 +20,7 @@ section#about{
   padding: 0 0 0 0 !important;
   width: 100%;
   height: 900px;
-  background-image: url("../img/stj.jpg"); 
+  background-image: url("../img/f.jpg"); 
   background-attachment: fixed;
 /*  padding-top: 100px !important;
   padding-left: 15% !important; */
