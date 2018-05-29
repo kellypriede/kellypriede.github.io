@@ -136,7 +136,7 @@ section img{
 }
 
 #education{
-  background-image: url("../img/light.jpg");
+  background-image: url("../img/light.jpg") !important;
   background-repeat: no-repeat;
   width: 100%;
   background-attachment: fixed;
