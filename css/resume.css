@@ -146,6 +146,20 @@ section img{
   padding-bottom: 50px;
 }
 
+@media(max-width: 650px){
+  #education{
+  background-image: url("../img/light.jpg");
+  background-repeat: no-repeat;
+  width: 100%;
+  background-attachment: fixed;
+  margin: 0 0 0 0;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  }
+}
+
+
 /*#education .fa{
   color: #BAB4A3;
 }*/
